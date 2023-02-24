@@ -1,0 +1,47 @@
+.work{
+    background-color: #F4F6FC;
+    padding: 128px 0;
+}
+.work-left{
+    width: 50%;
+  
+}
+.work-left h2{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    color: #282938;
+}
+.work-left p{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #282938;
+    width: 405px;
+    margin: 14px 0 16px 0;
+}
+.work-btn-2{
+    color: #2405F2;
+}
+.work-right{
+    width: 50%;
+}
+.work-right .row{
+    flex-wrap: wrap;
+}
+.work-right h3{
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 500;
+    color: #282938;
+}
+.work-right p{
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    width: 303px;
+    color: #282938;
+}
+.work-right .item{
+    margin-bottom: 48px;
+}

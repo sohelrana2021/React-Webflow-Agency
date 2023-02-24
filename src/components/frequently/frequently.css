@@ -1,0 +1,65 @@
+.frequently{
+    padding: 129px 0;
+}
+.freq-left{
+    width: 50%;
+}
+.freq-left h2{
+    font-size: 38px;
+    line-height: 56px;
+    font-weight: 600;
+    width: 328px;
+    color: #282938;
+    padding-bottom: 16px;
+    margin-top: 10px;
+}
+.freq-left a{
+    color: #2405F2;
+}
+.freq-right{
+    width: 50%;
+}
+.freq-right h2{
+    color: #282938;
+    font-size: 24px;
+    line-height: 36px;
+    font-weight: 500;
+    padding: 20px 0;
+    width: 100%;
+    text-align: left;
+    background-color: #fff;
+    border-bottom: 1px solid #BBBBCB;
+    cursor: pointer;
+}
+.freq-right h2 span {
+    color: #2405F2;
+    font-size: 24px;
+    line-height: 32px;
+    font-weight: 500;
+    padding: 0 40px 0 10px;
+}
+.freq-right h2::after{
+    content: '\002b';
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-right: 10px;
+}
+.active:after {
+    content: "\2212";
+  }
+.freq-right p{
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 500;
+    width: 600px;
+}
+.faq-contant{
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 500;
+    color: #282938;
+    width: 624px;
+    margin-left: 70px;
+    display: none;
+}

@@ -1,0 +1,45 @@
+.banner{
+    width: 100%;
+    background-color: #1C1E53;
+    padding: 86px 0 138px 0;
+}
+.banner-left{
+    width: 50%;
+}
+.banner-left h1{
+    font-size: 54px;
+    font-weight: 600;
+    line-height: 74px;
+    color: #fff;
+}
+.banner-left p{
+    font-size: 16px;
+    line-height: 24px;
+    width: 562px;
+    color: #BBBBCB;
+    margin: 24px 0 48px 0;
+}
+.banner-btn-1{
+    padding: 10px 40px;
+    border: 1px solid rgba(244, 246, 252, 0.5);
+    border-radius: 41px;
+    transition: .4s;
+    background-color: #FCD980;
+    transition: .4s;
+}
+.banner-btn-1:hover{
+    background-color: #fff;
+    color: #1C1E53;
+}
+.banner-btn-2{
+    margin-left: 32px;
+}
+.banner-btn-2 i{
+    padding-left: 10px;
+}
+.banner-right{
+    width: 50%;
+}
+.banner-right img{
+    width: 100%;
+}

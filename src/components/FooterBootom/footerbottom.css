@@ -1,0 +1,28 @@
+.footer-bottom{
+    background-color: #fff;
+    padding: 32px 0;
+}
+.footer-bottom-left{
+    float: left;
+    width: 50%;
+    color: #282938;
+}
+.footer-bottom-right{
+    width: 50%;
+}
+.footer-bottom-right ul{
+    display:flex;
+    justify-content: end;
+    column-gap: 32px;
+}
+.footer-bottom-right ul li a,
+.footer-bottom-right ul li p{
+    color: #282938;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 500;
+    transition: .4s;
+}
+.footer-bottom-right ul li a:hover{
+    color: #FCD980;
+}

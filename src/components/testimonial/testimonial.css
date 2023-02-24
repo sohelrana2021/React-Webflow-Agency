@@ -1,0 +1,73 @@
+.testimonial{
+    padding: 128px 0;
+    background-color: rgba(244, 246, 252, 0.4);
+}
+.testimonial-left{
+    color:#282938; 
+    width: 30%;
+}
+.testimonial-left h2{
+    font-size: 38px;
+    line-height: 56px;
+    font-weight: 600;
+    
+}
+.testimonial-left p{
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+}
+.testimonial-right{
+    width: 70%;
+    color: #282938;
+    padding-left: 60px;
+}
+.testimonial-right h3{
+    font-size: 32px;
+    line-height: 48px;
+    font-weight: 500;
+    margin-bottom: 48px;
+}
+.testmonial-info{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 76px;
+    position: relative;
+}
+.testmonial-info-left img{
+position: absolute;
+    left: 0;
+    top: 0;
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+}
+.testmonial-info-left h6{
+    font-size: 18px;
+    line-height: 32px;
+    font-weight: 400;
+}
+.testmonial-info-left p{
+    font-size: 12px;
+    line-height: 28px;
+    font-weight: 400;
+}
+.testmonial-info-right{
+    margin-top: 3px;
+}
+.testmonial-info-right i{
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    text-align: center;
+    border-radius: 50%;
+    line-height: 50px;
+    margin-left: 10px;
+    font-size: 22px;
+    color: #2405F2;
+    transition: .4s;
+}
+.testmonial-info-right i:hover{
+    color: #fff;
+    background-color: #2405F2;
+}
